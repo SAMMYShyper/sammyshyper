@@ -1,13 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1300&pause=&color=16C60C&repeat=false&width=435&lines=Hey%2C+I'm+Sam)](https://git.io/typing-svg)
 
 
-<h3 align="center">CS student at Georgia Tech</h3>
-
-- Previously interned at Morgan Stanley and GitHub in **Software Engineering and Support Engineering**
-- GT Esports and USF Esports **Valorant and Fortnite Esports Player**
-- Society of Hispanic Professional Engineers **Director of Professional Development (2025-2026) and Member (2024-Present)**
-
-- I like to play videogames, rock climb, and play the piano in my free time. Feel free to reach out.
+- Morgan Stanley and GitHub **Software Engineering and Support Engineering**
+- I like to play esports, rock climb, and play the piano in my free time. Feel free to reach out.
 <p align="left">
 </p>
 
