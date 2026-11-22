@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1300&pause=&color=16C60C&repeat=false&width=435&lines=Hey%2C+I'm+Sam)](https://git.io/typing-svg)
 
-
-- Morgan Stanley and GitHub **Software Engineering and Support Engineering**
 - I like to play esports, rock climb, and play the piano in my free time. Feel free to reach out.
 <p align="left">
 </p>
